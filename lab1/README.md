@@ -19,3 +19,5 @@ Running our image on port 80 with memory and cpu limits
 ```
 docker run -p 80:80 -d --name webapp -m 1024m --cpus="1.5" webapp:v1
 ```
+
+Dockerhub rep - https://hub.docker.com/repository/docker/oneeyka/lab1
